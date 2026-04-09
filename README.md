@@ -1,7 +1,7 @@
 # About Me: 
 👋 ¡Hola! Soy Ángel<br>Estudiante de Ingeniería en Sistemas Computacionales. Me apasiona la programación, las estructuras de datos y crear interfaces gráficas interactivas. Trabajo principalmente con Java, Python y tecnologías web. Actualmente desarrollo proyectos visuales educativos y experimentales.<br><br>🚀 Siempre aprendiendo, siempre creando. 
 
-# ░░░ Tech Stack:
+# ░░░Tech Stack:
 ![C](https://img.shields.io/badge/c-%23000000.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%23000000.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23000000.svg?style=flat&logo=openjdk&logoColor=white) 
