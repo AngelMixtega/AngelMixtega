@@ -1,96 +1,145 @@
-<!-- minimal grid / spacing -->
+<!-- top line -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1"/>
 </p>
 
-<h1 align="center">Angel</h1>
-<p align="center">systems · software · interfaces</p>
+<!-- title -->
+<h1 align="center">ANGEL</h1>
 
 <p align="center">
-  <sub>designed to build. built to evolve.</sub>
+  <sub>● ● ● system interface</sub>
 </p>
 
 ---
 
-## 
+<!-- fake UI panel -->
+<p align="center">
+┌──────────────────────────────┐
+│ ○ ○ ○ │
+│ │
+│ > select mode │
+│ │
+│ [1] about │
+│ [2] stack │
+│ [3] stats │
+│ [4] philosophy │
+│ │
+│ input: _ │
+└──────────────────────────────┘
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### About
+</p>
+
+---
+
+## ● about
+
+<p align="center">
+
+</p>
 
 Software engineer in progress.  
-Focused on building clean, scalable systems  
-and interactive digital experiences.
+Construyendo sistemas, interfaces y experiencias digitales.  
 
-Minimal by design.  
-Intentional by default.
-
-</td>
-<td width="50%" valign="top">
-
-### Status
-system: online
-focus: active
-mode: building
-version: 0.∞
-
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Stack
-
-![Java](https://img.shields.io/badge/java-000000?style=flat&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/python-000000?style=flat&logo=python&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/typescript-000000?style=flat&logo=typescript&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-000000?style=flat&logo=c%2B%2B&logoColor=white)  
-
-</td>
-<td width="33%" valign="top">
-
-### Frameworks
-
-![React](https://img.shields.io/badge/react-000000?style=flat&logo=react&logoColor=white)  
-![Vue](https://img.shields.io/badge/vue-000000?style=flat&logo=vuedotjs&logoColor=white)  
-![Django](https://img.shields.io/badge/django-000000?style=flat&logo=django&logoColor=white)  
-![Express](https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white)  
-
-</td>
-<td width="33%" valign="top">
-
-### Infrastructure
-
-![Firebase](https://img.shields.io/badge/firebase-000000?style=flat&logo=firebase&logoColor=white)  
-![Azure](https://img.shields.io/badge/azure-000000?style=flat&logo=microsoftazure&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/google_cloud-000000?style=flat&logo=google-cloud&logoColor=white)  
-
-</td>
-</tr>
-</table>
-
----
-
-## 
-
-### Live Metrics
+## ● stack
 
 <p align="center">
 
-<!-- micro animation illusion -->
+<!-- dot divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2"/>
+
+</p>
+languages:
+java · python · typescript · c++
+
+frameworks:
+react · vue · django · express
+
+infra:
+firebase · azure · gcp
+
+<p align="center">
+
+![Java](https://img.shields.io/badge/●-000000?style=flat)
+![Python](https://img.shields.io/badge/●-000000?style=flat)
+![TS](https://img.shields.io/badge/●-000000?style=flat)
+![React](https://img.shields.io/badge/●-000000?style=flat)
+![Firebase](https://img.shields.io/badge/●-000000?style=flat)
+
+</p>
+
+---
+
+## ● stats
+
+<p align="center">
+
+<!-- simulated "live panel" -->
 <img src="https://github-readme-stats.vercel.app/api?username=AngelMixtega&theme=default&hide_border=true&show_icons=false"/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=AngelMixtega&theme=default&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+updating...
+
+
+</p>
+
+---
+
+## ● signal
+
+<p align="center">
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●
+
+
+</p>
+
+<p align="center">
+  <sub>dot matrix simulation</sub>
+</p>
+
+---
+
+## ● philosophy
+less but better
+function over noise
+clarity over complexity
+
+build → test → refine → repeat
+
+
+---
+
+## ● interface
+
+<p align="center">
+
+
+run angel.exe
+
+initializing...
+
+██████████████████████ 100%
+
+system ready
+
+
+</p>
+
+---
+
+## ● activity
+
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMixtega&theme=default&hide_border=true&layout=compact"/>
 
@@ -98,84 +147,24 @@ version: 0.∞
 
 ---
 
-## 
-
-### Signal
+## ● end
 
 <p align="center">
 
-<!-- simulated pulse animation -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header"/>
+
+session terminated
+
 
 </p>
-input → process → output
-repeat until better
-
 
 <p align="center">
-  <sub>stable · precise · continuous</sub>
+  <sub>● ● ●</sub>
 </p>
 
 ---
-
-## 
-
-### Product Philosophy
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- less noise  
-- more clarity  
-
-- less features  
-- more intention  
-
-</td>
-<td width="50%" valign="top">
-
-- design = function  
-- code = medium  
-
-- systems > fragments  
-
-</td>
-</tr>
-</table>
-
----
-
-## 
-
-### Top Repositories
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=AngelMixtega&limit=5&theme=default&combine_all_yearly_contributions=true"/>
-
-</p>
-
----
-
-## 
-
-### Availability
-
-Disponible para construir cosas que importen.  
-
-<p align="center">
-  <sub>no hype · just execution</sub>
-</p>
-
----
-
-## 
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=AngelMixtega&icon=0&color=0"/>
 </p>
 
-<p align="center">
-  <sub>end of interface</sub>
-</p>
+
