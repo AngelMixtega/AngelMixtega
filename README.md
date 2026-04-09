@@ -1,18 +1,62 @@
-# About Me:
-👋 ¡Hola! Soy Ángel<br>Estudiante de Ingeniería en Sistemas Computacionales. Me apasiona la programación, las estructuras de datos y crear interfaces gráficas interactivas. Trabajo principalmente con Java, Python y tecnologías web. Actualmente desarrollo proyectos visuales educativos y experimentales.<br><br>🚀 Siempre aprendiendo, siempre creando.
+# ⊡
 
-
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AngelMixtega&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AngelMixtega&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMixtega&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AngelMixtega&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+> signal detected  
+> id: Angel  
+> state: evolving  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AngelMixtega&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# ░░░ About Me:
+👁️ no soy una empresa<br>
+no soy un equipo<br><br>
+
+soy Ángel  
+estudiante de ingeniería en sistemas computacionales<br><br>
+
+proceso código  
+estructuras  
+interfaces<br><br>
+
+transformo ideas en sistemas interactivos  
+experimentos visuales  
+fragmentos funcionales<br><br>
+
+🚀 always learning  
+always building  
+
+---
+
+# ░░░ Tech Stack:
+![C](https://img.shields.io/badge/c-%23000000.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%23000000.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23000000.svg?style=flat&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=flat&logo=javascript&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=flat&logo=kotlin&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%23000000.svg?style=flat&logo=python&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=flat&logo=typescript&logoColor=white)  
+
+![React](https://img.shields.io/badge/react-%23000000.svg?style=flat&logo=react&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/vue-%23000000.svg?style=flat&logo=vuedotjs&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%23000000.svg?style=flat&logo=react&logoColor=white)  
+
+![Django](https://img.shields.io/badge/django-%23000000.svg?style=flat&logo=django&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express-%23000000.svg?style=flat&logo=express&logoColor=white)  
+
+![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=flat&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23000000.svg?style=flat&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%23000000.svg?style=flat&logo=sqlite&logoColor=white)  
+
+![Firebase](https://img.shields.io/badge/firebase-%23000000.svg?style=flat&logo=firebase&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%23000000.svg?style=flat&logo=microsoftazure&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/google_cloud-%23000000.svg?style=flat&logo=google-cloud&logoColor=white)  
+
+![Arduino](https://img.shields.io/badge/arduino-%23000000.svg?style=flat&logo=arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/raspberry_pi-%23000000.svg?style=flat&logo=raspberry-pi&logoColor=white)  
+
+![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=flat&logo=figma&logoColor=white) 
+![Blender](https://img.shields.io/badge/blender-%23000000.svg?style=flat&logo=blender&logoColor=white) 
+![Photoshop](https://img.shields.io/badge/photoshop-%23000000.svg?style=flat&logo=adobephotoshop&logoColor=white)  
+
+---
+
+# ░░░ system
