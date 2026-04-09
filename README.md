@@ -1,5 +1,5 @@
 # About Me: 
-Hi! I’m Ángel <br>a Computer Systems Engineering student; I focus on turning complex ideas into interactive visual experiences through data structure visualizations, educational interfaces, and experimental projects using Java, Python, and web technologies, blending minimal design, computational logic, and creativity to make the abstract tangible — always creating, always learning, always evolving.
+Hi! I’m Ángel <br>a Computer Systems Engineering student from Mexico; I focus on turning complex ideas into interactive visual experiences through educational interfaces and experimental projects using Java, Python, and web technologies, blending minimal design, computational logic, and creativity to make the abstract tangible — always creating, always learning, always evolving.
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%23000000.svg?style=flat&logo=c&logoColor=white) 
